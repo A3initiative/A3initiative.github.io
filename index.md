@@ -14,6 +14,6 @@ Página do Projeto Final do Grupo Condomínio PUC APS-211
 
 ```
 
-### Contato
+### Grupo
 
-© A3 Initiative Corporation, 2022
+Ana Maria Araujo da Silva, André de Araujo Sholl e Mauro Robson de Araujo
