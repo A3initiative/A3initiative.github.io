@@ -2,9 +2,7 @@
 
 ## Análise e Projeto de Sistemas - PUC-Rio
 
-### SisCondo | Sistema de Gerenciamento de Encomendas para Condomínios
-
-Bem-vindo(a) ao site da A3initiative Corporation 
+#### Sistema de Gerenciamento de Encomendas para Condomínios | SisCondo
 
 ```markdown
 
@@ -19,3 +17,5 @@ Bem-vindo(a) ao site da A3initiative Corporation
 ### Grupo
 
 Ana Maria Araujo da Silva, André de Araujo Sholl e Mauro Robson de Araujo
+
+#### A3initiative Corporation
