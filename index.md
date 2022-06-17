@@ -1,6 +1,6 @@
-# Projeto Final Grupo Condomínio - PUC APS-211 
+# Projeto Final Grupo Condomínio
 
-## Análise e Projeto de Sistemas PUC-Rio
+## Análise e Projeto de Sistemas - PUC-Rio
 
 ### SisCondo | Sistema de Gerenciamento de Encomendas para Condomínios
 
