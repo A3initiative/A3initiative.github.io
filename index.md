@@ -14,6 +14,7 @@
 
 ```
 
+#### Funcionalidades:
 - [Efetuar Login](https://a3initiative.github.io/projeto/efetuarLogin.html) 
 
 ### Grupo
