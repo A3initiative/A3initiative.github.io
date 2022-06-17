@@ -1,8 +1,10 @@
-# Bem-vindo(a) ao site da A3initiative Corporation
+# Projeto Final Grupo Condomínio - PUC APS-211 
 
-## SisCondo | A3 Initiative Corporation
+## Análise e Projeto de Sistemas PUC-Rio
 
-Página do Projeto Final do Grupo Condomínio PUC APS-211 
+### SisCondo | Sistema de Gerenciamento de Encomendas para Condomínios
+
+Bem-vindo(a) ao site da A3initiative Corporation 
 
 ```markdown
 
