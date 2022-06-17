@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao site da A3initiative Corporation
+# Bem-vindo(a) ao site da A3initiative Corporation
 
-### SisCondo | A3 Initiative Corporation
+## SisCondo | A3 Initiative Corporation
 
 Página do Projeto Final do Grupo Condomínio PUC APS-211 
 
