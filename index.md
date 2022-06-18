@@ -6,17 +6,21 @@
 
 ```markdown
 
-## Efetuar Login
-## Manter Usuário
-## Manter Encomenda
-## Consultar Encomenda
-## Emitir Relatório
+## UCS01 Efetuar Login
+## UCS02 Manter Encomenda
+## UCS03 Verificar Encomenda
+## UCS04 Emitir Relatório
+## UCS05 Manter Usuário
 
 ```
 
 #### Funcionalidades:
 - [Efetuar Login](https://a3initiative.github.io/projeto/efetuarLogin.html) 
-- [Manter Encomenda / Consultar](https://a3initiative.github.io/projeto/manterEncomenda.html)
+- [Manter Encomenda / Consultar](https://a3initiative.github.io/projeto/manterEncomenda_consultar.html) 
+- [Manter Encomenda / Registrar](https://a3initiative.github.io/projeto/manterEncomenda_registrar.html)
+- [Manter Encomenda / Visão Mensageiro](https://a3initiative.github.io/projeto/manterEncomenda_mensageiro.html)
+- [Verificar Encomenda](https://a3initiative.github.io/projeto/verificaEncomenda.html)
+- [Manter Usuário](https://a3initiative.github.io/projeto/manterUsuario.html)
 
 ### Grupo
 
