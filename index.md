@@ -19,8 +19,9 @@
 - [Manter Encomenda / Consultar](https://a3initiative.github.io/projeto/manterEncomenda_consultar.html) 
 - [Manter Encomenda / Registrar](https://a3initiative.github.io/projeto/manterEncomenda_registrar.html)
 - [Manter Encomenda / Visão Mensageiro](https://a3initiative.github.io/projeto/manterEncomenda_mensageiro.html)
-- [Verificar Encomenda](https://a3initiative.github.io/projeto/verificaEncomenda.html)
+- [Verificar Encomenda](https://a3initiative.github.io/projeto/verificarEncomenda.html)
 - [Manter Usuário](https://a3initiative.github.io/projeto/manterUsuario.html)
+- [Emitir Relatório](https://a3initiative.github.io/projeto/emitirRelatório.html)
 
 ### Grupo
 
