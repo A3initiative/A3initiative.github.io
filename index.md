@@ -16,7 +16,7 @@
 
 #### Funcionalidades:
 - [Efetuar Login](https://a3initiative.github.io/projeto/efetuarLogin.html) 
-- [Manter Encomenda | Consultar]([https://a3initiative.github.io/projeto/efetuarLogin.html](https://a3initiative.github.io/projeto/manterEncomenda.html)
+- [Manter Encomenda | Consultar](https://a3initiative.github.io/projeto/efetuarLogin.html](https://a3initiative.github.io/projeto/manterEncomenda.html)
 
 ### Grupo
 
