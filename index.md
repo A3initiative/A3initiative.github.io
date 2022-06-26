@@ -12,7 +12,7 @@
 ## UCS04 Emitir Relatório
 ## UCS05 Manter Usuário
 ## UCS06 Notificar nova encomenda
-## UCS07 Notificar tempo de guarda execedido
+## UCS07 Notificar tempo de guarda excedido
 
 ```
 
