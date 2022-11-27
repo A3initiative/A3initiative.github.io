@@ -2,7 +2,9 @@
 
 ## Análise e Projeto de Sistemas - PUC-Rio
 
-#### Sistema de Gerenciamento de Encomendas para Condomínios | SisCondo 
+### APS 211 
+
+#### SisCondo | Mensageria
 
 ```markdown
 
@@ -16,8 +18,8 @@
 
 ```
 
-### Grupo
+### Grupo Condomínio
 
-Ana Maria Araujo da Silva, André de Araujo Sholl e Mauro Robson de Araujo
+Ana Silva, André Sholl e Mauro Robson
 
 #### A3initiative Corporation
